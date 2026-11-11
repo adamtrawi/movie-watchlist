@@ -1,16 +1,51 @@
-# React + Vite
+# Movie Watchlist
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A web application built using React and Vite for our Advanced Web Programming course. This project allows users to search for movies using the OMDb API and build a personal watchlist.
 
-Currently, two official plugins are available:
+Created by **Adam Trawi** and **Abed Balhawan**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 📌 Project Description
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+MovieList is a simple single-page app where users can look up movies, view details like release year and IMDb ratings, and save them to their watchlist. 
 
-## Expanding the Oxlint configuration
+Key features include:
+* Search for movies via the OMDb API
+* Add and delete movies from your watchlist
+* Toggle movies between "Watched" and "Unwatched"
+* Filter list view by Watched or Unwatched status
+* Local storage support (movies stay saved after refreshing the page)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+---
+
+## 📸 Screenshots
+
+### Home Page
+![Home Page](./screenshots/home.png)
+
+### Watchlist & Search Page
+![Watchlist Page](./screenshots/watchlist.png)
+
+---
+
+## 🛠️ Built With
+
+* React
+* Vite
+* React Router DOM
+* OMDb API
+* CSS
+
+---
+
+## 🚀 How to Run the Project Locally
+
+### Prerequisites
+Make sure you have [Node.js](https://nodejs.org/) installed on your computer.
+
+### Steps
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/adamtrawi/movie-watchlist.git](https://github.com/adamtrawi/movie-watchlist.git)
