@@ -1,3 +1,5 @@
+🔗 **Live Demo:** [https://your-vercel-url.vercel.app](https://your-vercel-url.vercel.app)
+
 # Movie Watchlist
 
 A web application built using React and Vite for our Advanced Web Programming course. This project allows users to search for movies using the OMDb API and build a personal watchlist.
