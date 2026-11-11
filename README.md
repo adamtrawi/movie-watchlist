@@ -22,10 +22,19 @@ Key features include:
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page](./screenshots/home.png)
+![Home Page](./src/assets/Home.PNG)
 
 ### Watchlist & Search Page
-![Watchlist Page](./screenshots/watchlist.png)
+![My Watchlist Page](./src/assets/MyWatchlist.PNG)
+
+### Features Page
+![Features Page](./src/assets/Features.PNG)
+
+### About Page
+![About Page](./src/assets/About.PNG)
+
+### Contact Page
+![Contact Page](./src/assets/Contact.PNG)
 
 ---
 
@@ -49,3 +58,4 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your computer.
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/adamtrawi/movie-watchlist.git](https://github.com/adamtrawi/movie-watchlist.git)
+   cd movie-watchlist
